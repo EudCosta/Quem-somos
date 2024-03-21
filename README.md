@@ -1,2 +1,1 @@
 # Quem-somos
-Quem somos
